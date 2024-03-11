@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muhammad-zeeshan-baqir/facebook-login/static/css/main.e6c13ad2.css",
+    "main.js": "/muhammad-zeeshan-baqir/facebook-login/static/js/main.873740e4.js",
+    "static/js/453.493e3c4f.chunk.js": "/muhammad-zeeshan-baqir/facebook-login/static/js/453.493e3c4f.chunk.js",
+    "index.html": "/muhammad-zeeshan-baqir/facebook-login/index.html",
+    "main.e6c13ad2.css.map": "/muhammad-zeeshan-baqir/facebook-login/static/css/main.e6c13ad2.css.map",
+    "main.873740e4.js.map": "/muhammad-zeeshan-baqir/facebook-login/static/js/main.873740e4.js.map",
+    "453.493e3c4f.chunk.js.map": "/muhammad-zeeshan-baqir/facebook-login/static/js/453.493e3c4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.873740e4.js"
+  ]
+}
